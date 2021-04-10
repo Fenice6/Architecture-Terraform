@@ -1,0 +1,14 @@
+ÿGroup hierarchy,Regione,Descrizione,Service,Anticipo,Mensile,Totale dei primi 12 mesi,Currency,Configuration summary
+My Estimate,US East (N. Virginia),,Amazon Virtual Private Cloud (VPC),0,37.35,448.20,USD,Numero di gateway NAT (1)
+My Estimate,US East (N. Virginia),,Amazon EC2,0,294.95,3539.40,USD,"Sistema operativo (Linux), Quantità (4), Pricing strategy (Istanze riservate modificabili 1 anno Nessun pagamento anticipato), Quantità di storage (30 GB), Tipo di istanza (t4g.xlarge)"
+My Estimate,US East (N. Virginia),,Amazon Aurora MySQL-Compatible,480,51.93000000000001,1103.16,USD,"Modifica dei record per istruzione (0.38), Nodi (2), Tipo di istanza (db.t2.medium), Famiglia di istanze (General purpose), Modello di prezzi (Reserved), Condizione dell'offerta di noleggio (1yr), Opzione di acquisto (Partial Upfront), Quantità di storage (100 GB)"
+My Estimate,US East (N. Virginia),,Application Load Balancer,0,33.01,396.12,USD,Numero di Application Load Balancer (2)
+My Estimate,US East (N. Virginia),,S3 Standard,0,0.04,0.48,USD,Storage S3 Standard (1 GB per mese)
+My Estimate,US East (N. Virginia),,Data Transfer,0,0,0.00,USD,"DT In entrata: All other regions (0 TB al mese), DT In uscita: Internet (0 TB al mese)"
+My Estimate,US East (N. Virginia),,AWS Lambda,0,0,0.00,USD,"Numero di richieste (100), Numero di richieste (100)"
+My Estimate,US East (N. Virginia),,Amazon EC2,0,202.22,2426.64,USD,"Sistema operativo (Linux), Quantità (2), Pricing strategy (Istanze on demand 1 anno Nessun pagamento anticipato), Quantità di storage (30 GB), Tipo di istanza (t4g.xlarge)"
+
+
+
+Conferma
+"* Il Calcolatore dei prezzi di AWS fornisce solo una valutazione dei costi di AWS e non include le eventuali tasse richieste. Le tue tariffe reali dipendono da una serie di fattori, tra cui l'utilizzo effettivo dei servizi AWS."
